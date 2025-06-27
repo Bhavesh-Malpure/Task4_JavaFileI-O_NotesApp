@@ -1,0 +1,10 @@
+Title : Java File i/o
+Filewrtiter is used to write char data to file 
+filereader is used to read char data from a file
+-----
+Title : java oop concepts
+Encapsulation\
+Polymorphism
+abstraction
+inheritance
+-----
